@@ -104,6 +104,10 @@ The whole path planning work can be divided into two steps: Behavior Planning an
 * Previous path points will also be used for better transition between planning cycles. 
 * Finally, there will be 50 waypoints in total generated for path planner.
 
+## Test Run Video
+
+A [video](https://youtu.be/hyLmDJhNYFg) shows ego car is able to drive at least 4.32 miles without incident.
+
 ---
 
 ## Basic Build Instructions
